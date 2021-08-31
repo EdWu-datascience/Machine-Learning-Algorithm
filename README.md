@@ -1,1 +1,1 @@
-# Netflix-recommend-algorithm
+# Machine Learning Algorithm
