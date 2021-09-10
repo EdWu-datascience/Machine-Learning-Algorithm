@@ -1,0 +1,3 @@
+the difference between label encoding and one hot encoding:
+label encoding is used for deal with ordinal data(like grade A+/A/A-) while one hot encoding is use to deal with nominal data(like red/blue/black)
+to deal with nominal data , we will need to transform the data by using label encoding and the use the processed data as input to one hot encoding
